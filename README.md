@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvintaylor-dev
 - 👀 I’m interested in learning everything I can in this world of coding!
-- 🌱 I’m currently learning the MERN stack but haven't reached the 'R' yet. 
-- 💞️ I’d love to collaborate on any projects using Javascript.
+- 🌱 Currently devoting my time to becoming a full stack developer. 
+- 💞️ If you want to collaborate on one of my projects or need help on one of yours, don't be shy.
 - 📫 You can reach me on twitter @themarvintaylor
 
 <!---
