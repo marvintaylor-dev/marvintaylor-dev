@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marvintaylor-dev
-- 👀 I’m interested in learning everything I can in this world of tech!
+- 🌱 I'm interested in learning everything I can in this world of tech!
 
 
 <!---
